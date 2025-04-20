@@ -3,7 +3,8 @@
 
 📄 PDF Report: https://github.com/pd-prachis/Flight-Status-Dashboard/blob/main/Flight%20Status%20Dashboard.pdf
 
-📌 Problem Statement
+📌 Problem Statement:
+
 Flight delays and cancellations significantly impact operational efficiency and customer satisfaction in the aviation industry. This Power BI Dashboard provides a data-driven perspective on flight performance across major U.S. cities and airlines, offering granular insights into:
 
 Delay trends by airline and month
@@ -12,7 +13,8 @@ Cancellation reasons and their impact
 
 Performance by city and day of the week
 
-🛠️ Data Analysis Workflow
+🛠️ Data Analysis Workflow:
+
 Step 1: Imported and cleaned raw flight data using Power Query Editor:
 
 Enabled Column Profiling & Quality Checks
@@ -45,7 +47,8 @@ Airline-wise delay comparison
 
 Step 4: Published the final dashboard to Power BI Service, with slicers and filters for real-time data exploration and stakeholder access.
 
-📈 Key Visuals & Metrics
+📈 Key Visuals & Metrics:
+
 ✈️ Flight Overview
 
 Metric	Value
@@ -53,22 +56,27 @@ Total Flights	2 Million
 % On-Time	58%
 % Delayed	41%
 % Cancelled	1%
-🏙️ Top Performing Cities
+
+🏙️ Top Performing Cities:
+
 High traffic cities like Atlanta, Chicago, Dallas–Fort Worth showed consistent flight volume
 
 Identify delay-prone cities for resource reallocation
 
-🛫 Delay % by Airline
+🛫 Delay % by Airline:
+
 Visual insight into delay performance for airlines like United, Delta, Southwest, etc.
 
 Aids in benchmarking operational efficiency
 
-🌩️ Cancellation Reason Breakdown
+🌩️ Cancellation Reason Breakdown:
+
 Weather and Airline/Carrier issues account for ~85% of all cancellations
 
 Enables strategic planning and contingency initiatives
 
-🔍 Insights Summary
+🔍 Insights Summary:
+
 Over 2M flights analyzed across major U.S. cities and carriers
 
 Weather-related issues are the leading cause of cancellations
@@ -79,7 +87,8 @@ Friday and Sunday had the highest delay percentages
 
 Proactive delay monitoring can improve route and crew efficiency
 
-💼 Tools & Technologies Used
+💼 Tools & Technologies Used:
+
 Power BI Desktop
 
 Power Query Editor for data transformation
@@ -90,7 +99,8 @@ Interactive dashboards with filters & slicers
 
 Power BI Service for sharing and accessibility
 
-✅ Business Value Delivered
+✅ Business Value Delivered:
+
 This dashboard helps:
 
 Airline Operations teams monitor and optimize flight schedules
