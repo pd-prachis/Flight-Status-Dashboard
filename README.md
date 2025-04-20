@@ -1,6 +1,7 @@
 # ✈️ Flight-Status-Dashboard
 📊 Live Dashboard: https://app.powerbi.com/groups/me/reports/db44d97e-6498-4da1-8a1c-51bcfb8767f8/ded366f1eade283d2391?experience=power-bi
-📄 PDF Report: Download PDF
+
+📄 PDF Report: https://github.com/pd-prachis/Flight-Status-Dashboard/blob/main/Flight%20Status%20Dashboard.pdf
 
 📌 Problem Statement
 Flight delays and cancellations significantly impact operational efficiency and customer satisfaction in the aviation industry. This Power BI Dashboard provides a data-driven perspective on flight performance across major U.S. cities and airlines, offering granular insights into:
